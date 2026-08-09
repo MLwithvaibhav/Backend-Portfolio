@@ -4,9 +4,11 @@ My personal developer portfolio built with React.
 
 🌐 **Live Portfolio:** [Add your deployed portfolio URL here]
 
-#Images
+##Images
 
 <img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/8203c0ef-5030-4ef6-954f-d45356938f07" />
+
+<br><br>
 
 <img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/3b3326be-686a-41ce-8460-fa9170b16d29" />
 
