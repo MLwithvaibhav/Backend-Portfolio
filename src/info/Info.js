@@ -33,7 +33,7 @@ of what each of the values mean.
 
 export const info = {
     firstName: "Vaibhav",
-    lastName: "Sharma",
+    lastName: "Sisodia",
     initials: "VS", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Java Backend Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
@@ -54,7 +54,7 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "thevaibhavsharma17@gmail.com"
+            text: "thevaibhavsisodia17@gmail.com"
         }
     ],
     socials: [
